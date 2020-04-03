@@ -1,3 +1,3 @@
 # Hello-World
 My First Repository.
-I hope that Corona go away for ever.
+I hope that Corona goes away forever.
